@@ -82,7 +82,7 @@ def combined_search(search_type, text, image, top_k, use_cluster_search):
             return gr.Warning("Please enter a text query."), None, "Error: No text provided"
         return search_by_text(text, top_k, use_cluster_search)
     else:
-        if not image:
+        if image is None:
             return gr.Warning("Please upload an image."), None, "Error: No image provided"
         return search_by_image(image, top_k, use_cluster_search)
 
@@ -184,3 +184,4 @@ with gr.Blocks(css="body { overflow-y: auto !important; }") as webui:
 
 webui.queue()
 webui.launch()
+
