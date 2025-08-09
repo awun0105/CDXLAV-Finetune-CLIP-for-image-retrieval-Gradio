@@ -2,7 +2,7 @@
 
 ## 📌 Description
 This repository contains:
-- A **CLIP Image Search App** trained on the **DeepFashion Multimodal Dataset**.
+- An text-image or image-image retrieval app called **CLIP Image Search App**, use a fine-tuned CLIP model on the **DeepFashion Multimodal Dataset** to adapt to the fashion domain.
 - Hugging Face demo, finetuned model, dataset, and training notebooks.
 - Source code for deploying via Gradio.
 
