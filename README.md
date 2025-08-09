@@ -7,6 +7,7 @@ This repository contains:
 - Source code for deploying via Gradio.
 
 ## Demo & Resources
+[![YouTube Project Demo Video](https://img.shields.io/badge/YouTube-Demo_Video-ff0000?logo=youtube)](https://www.youtube.com/watch?v=6h3SuES8a-M)
 
 [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Space-yellow?logo=huggingface)](https://huggingface.co/spaces/anhquanlam/clip-image-search-app-deepfashion-multimodal)  
 _Nếu gặp lỗi hiển thị không đầy đủ thì thu nhỏ trình duyệt và chọn reset để scroll được (bug Gradio)._
@@ -17,7 +18,8 @@ _Nếu gặp lỗi hiển thị không đầy đủ thì thu nhỏ trình duyệ
 [![Google Drive Notebook & Model](https://img.shields.io/badge/GoogleDrive-Notebook_%26_Model-orange?logo=googledrive)](https://drive.google.com/drive/folders/1EzeIEEgiSY1UIt3MlTxFFU7-xjUh1NeN?usp=sharing)  
 [![Google Drive Dataset](https://img.shields.io/badge/GoogleDrive-Dataset-red?logo=googledrive)](https://drive.google.com/file/d/1OVE0M_sWtRVPvpDAlWAEhbpCpcXdLajW/view?usp=sharing)  
 
-[![GitHub Source Code](https://img.shields.io/badge/GitHub-Full_Source_Code-black?logo=github)](https://github.com/awun0105/CDXLAV-Finetune-CLIP-for-image-retrieval-Gradio.git)
+[![GitHub Source Code](https://img.shields.io/badge/GitHub-Full_Source_Code-black?logo=github)](https://github.com/awun0105/CDXLAV-Finetune-CLIP-for-image-retrieval-Gradio.git)  
+
 
 ---
 
