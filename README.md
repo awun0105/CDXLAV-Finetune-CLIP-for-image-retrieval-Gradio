@@ -21,7 +21,7 @@ _Nếu gặp lỗi hiển thị không đầy đủ thì thu nhỏ trình duyệ
 
 ---
 
-##DEMO PICTURE:
+## DEMO PICTURE:
 
 <img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/b294222b-1bd7-4b10-bd02-81bee6f878cd" />
 
