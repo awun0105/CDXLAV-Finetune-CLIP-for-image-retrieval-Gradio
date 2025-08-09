@@ -1,5 +1,5 @@
 # CDXLAV-Finetune-CLIP-for-image-retrieval-Gradio
-
+# CLIP Image Search App - DeepFashion Multimodal
 ## 📌 Description
 This repository contains:
 - A text-image or image-image retrieval app called **CLIP Image Search App**, use a fine-tuned CLIP model on the **DeepFashion Multimodal Dataset** to adapt to the fashion domain.
@@ -31,7 +31,7 @@ _Nếu gặp lỗi hiển thị không đầy đủ thì thu nhỏ trình duyệ
 
 <img width="1917" height="996" alt="image" src="https://github.com/user-attachments/assets/80ebfe3b-0aaf-4a24-919e-e77d90042f36" />
 
-# CLIP Image Search App - DeepFashion Multimodal
+
 
 
 
